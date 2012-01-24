@@ -1,0 +1,14 @@
+# clj-gsb
+
+Clojure interface to Google's Safe Browsing API (http://code.google.com/apis/safebrowsing/).
+
+## Usage
+
+FIXME: write
+
+## License
+
+Copyright (C) Alex Ott 2012 
+
+Distributed under the Eclipse Public License, the same as Clojure.
+
